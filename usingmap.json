@@ -1,0 +1,4 @@
+Map<String, Object> json = new HashMap<String, Object>();
+json.put("user","kimchy");
+json.put("postDate",new Date());
+json.put("message","trying out Elasticsearch");
